@@ -1,15 +1,15 @@
 # Roadway-Grading-Design
 Directions
 
-1)	Input the design Parameters (Grading Limit, Elevation Change Limit, Cross Slope Limit, Lane Width, & Road Length) in the Input Parameters sheet	
+1.	Input the design Parameters (Grading Limit, Elevation Change Limit, Cross Slope Limit, Lane Width, & Road Length) in the Input Parameters sheet	
 
-2)	Copy and paste Flow Line data (Station & Elevation) from CAD into the Left, Right, and Center sheets and format the data under the Existing columns	
+2.	Copy and paste Flow Line data (Station & Elevation) from CAD into the Left, Right, and Center sheets and format the data under the Existing columns	
 	
 	2a)	Adjust the number of rows needed to include the data and adjust the referenced cells for the scatter plots as needed
 	
 	2b)	Adjust the Left, Right, and Center Line elevations under the Proposed columns as needed to meet grading requirements in the Left, Right, and Center sheets, respectively 
 
-4	Copy the Proposed Left and Right Flow Line data (Station & Elevation) into the Cross Slope Center Design sheet	
+3.	Copy the Proposed Left and Right Flow Line data (Station & Elevation) into the Cross Slope Center Design sheet	
 	4a	Match the Stations that can be compared between the Left, Right, and Center Lines and delete the unmatched data
 	4b	Input the matched Left and Right Flow Line data into the corresponding Proposed Left and Proposed Right columns and the Adjusted Center Line elevations will update based on the Cross Slope Limit parameter
 5	Copy the Adjusted Cetner Line data (Station & Elevation) into the Cross Slope Left & Right Design sheet under the Proposed Center columns and the Adjusted Left and Adjusted Right Flow Line elevations will update based on the Cross Slope Limit parameter	
