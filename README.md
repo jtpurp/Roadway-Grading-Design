@@ -39,6 +39,7 @@ Directions
 	8b)	Adjust the Center Line elevations as needed to meet grading requirements and keep track of the elevation changes for the corresponding stations
 
 9.	The Station and Elevation data in the Existing vs Proposed sheet under All Points will automatically update 	
+
 	9a)	Copy the Station and Elevation data for the Left, Right and Center Lines under All Points and match the Stations that can be compared between them. Delete the unmatched data
 	
 	9b)	Paste the matched Station and Elevation data for the Left, Right and Center Lines intot he corresponding tables under Matching Points
