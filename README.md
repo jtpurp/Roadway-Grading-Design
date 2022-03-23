@@ -1,11 +1,11 @@
 # Roadway-Grading-Design
 Directions
 
-1.)	Input the design Parameters (Grading Limit, Elevation Change Limit, Cross Slope Limit, Lane Width, & Road Length) in the Input Parameters sheet	
+1.	Input the design Parameters (Grading Limit, Elevation Change Limit, Cross Slope Limit, Lane Width, & Road Length) in the Input Parameters sheet	
 
-2.)	Copy and paste Flow Line data (Station & Elevation) from CAD into the Left, Right, and Center sheets and format the data under the Existing columns	
+2.	Copy and paste Flow Line data (Station & Elevation) from CAD into the Left, Right, and Center sheets and format the data under the Existing columns	
 	
-	2a.)	Adjust the number of rows needed to include the data and adjust the referenced cells for the scatter plots as needed
+	2a)	Adjust the number of rows needed to include the data and adjust the referenced cells for the scatter plots as needed
 	
 	2b)	Adjust the Left, Right, and Center Line elevations under the Proposed columns as needed to meet grading requirements in the Left, Right, and Center sheets, respectively 
 
